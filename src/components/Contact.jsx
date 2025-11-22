@@ -99,8 +99,8 @@ export default function Contact() {
             📧 Send Email
           </a>
           <a 
-            href="https://drive.google.com/file/d/1OqB1QzCAL9jYBBWutIgluQBhKU9by-iM/view?usp=sharing" 
-            download="Akram_Mohammad_Resume.pdf"
+            href="https://drive.google.com/file/d/1F-ytBdSQOsooHq_q4taNtC76dm6vNSgc/view?usp=sharing" 
+            download="Mohammad_Akram_Resume.pdf"
             className="btn btn-secondary"
           >
             📄 Download Resume

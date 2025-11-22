@@ -72,7 +72,7 @@ export default function Hero() {
           <div className="hero-actions">
             <a 
               href="https://drive.google.com/file/d/1F-ytBdSQOsooHq_q4taNtC76dm6vNSgc/view?usp=sharing" 
-              download="Akram_MD_Resume.pdf"
+              download="Mohammad_Akram_Resume.pdf"
               className="btn btn-primary"
               aria-label="Download Akram MD's Resume"
             >
