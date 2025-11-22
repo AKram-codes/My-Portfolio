@@ -39,7 +39,7 @@ export default function Contact() {
       value: "Download PDF",
       description: "Download my complete resume with detailed experience and skills",
       icon: "📄",
-      href: "https://drive.google.com/file/d/1OqB1QzCAL9jYBBWutIgluQBhKU9by-iM/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1F-ytBdSQOsooHq_q4taNtC76dm6vNSgc/view?usp=sharing",
       action: "Download"
     },
     {
